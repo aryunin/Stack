@@ -1,5 +1,8 @@
 #pragma once
 
+#include <cstdlib>
+#include <stdexcept>
+
 template <typename T>
 class Stack {
 private:
